@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color:black;
+    text-align: center;
+  }
+
+    h4{
+      color: blue;
+      text-align:center;
+    }
+
+    h3{
+    margin: 10px;
+  background-color: cyan;
+    }
+    
+    table, th, td {
+      border: 1px solid yellow;
+    }
+    
+    table {
+      width: 50%;
+    }
